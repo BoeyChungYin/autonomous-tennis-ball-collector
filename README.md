@@ -4,6 +4,8 @@ Autonomous tennis ball collector built for a competition setting.
 The robot was designed using a combination of VEX components, 3D printed parts, and other sensors. It was programmed in RobotC IDE using C programming language.
 
 <p>
+  <img src="images/20240415_140302.jpg">
+  <br/>
 </p>
 
 ### Competition objective
